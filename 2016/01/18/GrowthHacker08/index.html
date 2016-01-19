@@ -3,18 +3,18 @@
 <head>
   <meta charset="utf-8">
   
-  <title>Growth Hacker读书笔记07 | Uncle c&#39;s Blog</title>
+  <title>Growth Hacker 读书笔记08 | Uncle c&#39;s Blog</title>
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-  <meta name="description" content="GH（01-120）一周盘点：一周的时间，刚好读完了GH前三章，今天下午在悦动的bgm和hm的陪伴下重温了一回；关于这本书，起初我以为从中能够获得热插拔的技巧，直接应用到现在的产品或以后的产品中去，立竿见影，实际阅读才发现书中是通过众多的正反面growth案例来告诉我们what to do and why we have to，也许做产品本身就没有银弹可言，每个团队都需要具体结合自己产品的实际情况">
+  <meta name="description" content="Page[121] to Page[140]：A/B Test是一把利器，然而似乎我们团队只有logo和push用得比较溜；产品层面上缺少有效的实施，当然这也跟平台有关，移动端上的A/B Test实施需要客户端产品架构上的支持，目前团队没有资源去投入，比较可行的方式是在现有H5上去做一些尝试，提高H5的运营效果">
 <meta property="og:type" content="article">
-<meta property="og:title" content="Growth Hacker读书笔记07">
-<meta property="og:url" content="http://unclec.cn/2016/01/17/GrowthHacker07/index.html">
+<meta property="og:title" content="Growth Hacker 读书笔记08">
+<meta property="og:url" content="http://unclec.cn/2016/01/18/GrowthHacker08/index.html">
 <meta property="og:site_name" content="Uncle c's Blog">
-<meta property="og:description" content="GH（01-120）一周盘点：一周的时间，刚好读完了GH前三章，今天下午在悦动的bgm和hm的陪伴下重温了一回；关于这本书，起初我以为从中能够获得热插拔的技巧，直接应用到现在的产品或以后的产品中去，立竿见影，实际阅读才发现书中是通过众多的正反面growth案例来告诉我们what to do and why we have to，也许做产品本身就没有银弹可言，每个团队都需要具体结合自己产品的实际情况">
-<meta property="og:updated_time" content="2016-01-19T06:25:05.000Z">
+<meta property="og:description" content="Page[121] to Page[140]：A/B Test是一把利器，然而似乎我们团队只有logo和push用得比较溜；产品层面上缺少有效的实施，当然这也跟平台有关，移动端上的A/B Test实施需要客户端产品架构上的支持，目前团队没有资源去投入，比较可行的方式是在现有H5上去做一些尝试，提高H5的运营效果">
+<meta property="og:updated_time" content="2016-01-19T06:24:55.000Z">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="Growth Hacker读书笔记07">
-<meta name="twitter:description" content="GH（01-120）一周盘点：一周的时间，刚好读完了GH前三章，今天下午在悦动的bgm和hm的陪伴下重温了一回；关于这本书，起初我以为从中能够获得热插拔的技巧，直接应用到现在的产品或以后的产品中去，立竿见影，实际阅读才发现书中是通过众多的正反面growth案例来告诉我们what to do and why we have to，也许做产品本身就没有银弹可言，每个团队都需要具体结合自己产品的实际情况">
+<meta name="twitter:title" content="Growth Hacker 读书笔记08">
+<meta name="twitter:description" content="Page[121] to Page[140]：A/B Test是一把利器，然而似乎我们团队只有logo和push用得比较溜；产品层面上缺少有效的实施，当然这也跟平台有关，移动端上的A/B Test实施需要客户端产品架构上的支持，目前团队没有资源去投入，比较可行的方式是在现有H5上去做一些尝试，提高H5的运营效果">
   
     <link rel="alternative" href="/atom.xml" title="Uncle c&#39;s Blog" type="application/atom+xml">
   
@@ -64,10 +64,10 @@
   </div>
 </header>
       <div class="outer">
-        <section id="main"><article id="post-GrowthHacker07" class="article article-type-post" itemscope itemprop="blogPost">
+        <section id="main"><article id="post-GrowthHacker08" class="article article-type-post" itemscope itemprop="blogPost">
   <div class="article-meta">
-    <a href="/2016/01/17/GrowthHacker07/" class="article-date">
-  <time datetime="2016-01-17T04:49:33.000Z" itemprop="datePublished">2016-01-17</time>
+    <a href="/2016/01/18/GrowthHacker08/" class="article-date">
+  <time datetime="2016-01-18T06:18:35.000Z" itemprop="datePublished">2016-01-18</time>
 </a>
     
   </div>
@@ -78,7 +78,7 @@
         
   
     <h1 class="article-title" itemprop="name">
-      Growth Hacker读书笔记07
+      Growth Hacker 读书笔记08
     </h1>
   
 
@@ -86,12 +86,12 @@
     
     <div class="article-entry" itemprop="articleBody">
       
-        <p>GH（01-120）一周盘点：一周的时间，刚好读完了GH前三章，今天下午在悦动的bgm和hm的陪伴下重温了一回；关于这本书，起初我以为从中能够获得热插拔的技巧，直接应用到现在的产品或以后的产品中去，立竿见影，实际阅读才发现书中是通过众多的正反面growth案例来告诉我们what to do and why we have to，也许做产品本身就没有银弹可言，每个团队都需要具体结合自己产品的实际情况来调整设计、运营、推广策略，若想投机取巧势必会承担很大的风险；然而不得不说GH仍然也是一本难得的好书，你总能从海量经典案例的聚合中找到可参考或可警示的实践，前者需要你自己能够更多的触类旁通，而后者似乎更让人印象深刻，人们习惯从惨痛的教训中得到成长，该庆幸痛的不是你自己。测试从业者也应该读这本书，优秀的测试人员能够端到端的去把关产品的质量，前置风险，而这点最基本的就是在产品需求、设计review阶段对决策者进行合理地challenge，万万不是被动地接收任务，尽管现实很多测试团队就是如此。关于日常读书，很高兴自己坚持下来了，并且还能享受阅读和分享的过程，希望自己的坚持不仅对自己有所积累，而且还能够给朋友们带来积极的影响。</p>
+        <p>Page[121] to Page[140]：A/B Test是一把利器，然而似乎我们团队只有logo和push用得比较溜；产品层面上缺少有效的实施，当然这也跟平台有关，移动端上的A/B Test实施需要客户端产品架构上的支持，目前团队没有资源去投入，比较可行的方式是在现有H5上去做一些尝试，提高H5的运营效果</p>
 
       
     </div>
     <footer class="article-footer">
-      <a data-url="http://unclec.cn/2016/01/17/GrowthHacker07/" data-id="cijl0nmel0003vffyqe9c2m8d" class="article-share-link">Share</a>
+      <a data-url="http://unclec.cn/2016/01/18/GrowthHacker08/" data-id="cijl0nme70000vffyz81k6p2s" class="article-share-link">Share</a>
       
       
   <ul class="article-tag-list"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/读书笔记/">读书笔记</a></li></ul>
@@ -102,19 +102,10 @@
     
 <nav id="article-nav">
   
-    <a href="/2016/01/18/GrowthHacker08/" id="article-nav-newer" class="article-nav-link-wrap">
-      <strong class="article-nav-caption">Newer</strong>
-      <div class="article-nav-title">
-        
-          Growth Hacker 读书笔记08
-        
-      </div>
-    </a>
   
-  
-    <a href="/2016/01/16/GrowthHacker06/" id="article-nav-older" class="article-nav-link-wrap">
+    <a href="/2016/01/17/GrowthHacker07/" id="article-nav-older" class="article-nav-link-wrap">
       <strong class="article-nav-caption">Older</strong>
-      <div class="article-nav-title">Growth Hacker读书笔记06</div>
+      <div class="article-nav-title">Growth Hacker读书笔记07</div>
     </a>
   
 </nav>
@@ -126,7 +117,7 @@
 
   <section id="comments">
     <!-- 多说评论框 start -->
-    <div class="ds-thread" data-thread-key="post-GrowthHacker07" data-title="Growth Hacker读书笔记07" data-url="http://unclec.cn/2016/01/17/GrowthHacker07/"></div>
+    <div class="ds-thread" data-thread-key="post-GrowthHacker08" data-title="Growth Hacker 读书笔记08" data-url="http://unclec.cn/2016/01/18/GrowthHacker08/"></div>
     <!-- 多说评论框 end -->
     <!-- 多说公共JS代码 start (一个网页只需插入一次) -->
     <script type="text/javascript">
