@@ -3,18 +3,18 @@
 <head>
   <meta charset="utf-8">
   
-  <title>Growth Hacker读书笔记06 | Uncle c&#39;s Blog</title>
+  <title>Growth Hacker读书笔记16 | Uncle c&#39;s Blog</title>
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-  <meta name="description" content="Page[101] to Page[120]；原来嵌入式代码的推广最先是ytb尝试的，真不容易，在各大sp为了节省自己的带宽时，ytb敢于逆流而上；地推的案例刚好让我想起了我们在tr的竞争对手gb haber。。。别人在tr花了几万刀租了客轮就得到了百万的安装，想想之前我们团队有钱烧的时候市场那边做的都是些什么鬼，一切还是以人为本啊，做事的人决定了事情成败，想想现在新闻的尴尬，真是唏嘘；刚好文中又">
+  <meta name="description" content="GH完整案例篇－Airbnb；今天就得到执行的好计划要远远胜过明天的完美计划，这种思想跟敏捷流程的快速迭代交付不谋而合，我们不应该将时间花在所谓追求那个“最完美”的解决方案中，快速选取可行的解决方案进行验证、回收、调整，持续集成、持续改进调优会更容易控制风险，且符合市场规律">
 <meta property="og:type" content="article">
-<meta property="og:title" content="Growth Hacker读书笔记06">
-<meta property="og:url" content="http://unclec.cn/2016/01/16/GrowthHacker06/index.html">
+<meta property="og:title" content="Growth Hacker读书笔记16">
+<meta property="og:url" content="http://unclec.cn/2016/01/26/GrowthHacker16/index.html">
 <meta property="og:site_name" content="Uncle c's Blog">
-<meta property="og:description" content="Page[101] to Page[120]；原来嵌入式代码的推广最先是ytb尝试的，真不容易，在各大sp为了节省自己的带宽时，ytb敢于逆流而上；地推的案例刚好让我想起了我们在tr的竞争对手gb haber。。。别人在tr花了几万刀租了客轮就得到了百万的安装，想想之前我们团队有钱烧的时候市场那边做的都是些什么鬼，一切还是以人为本啊，做事的人决定了事情成败，想想现在新闻的尴尬，真是唏嘘；刚好文中又">
-<meta property="og:updated_time" content="2016-01-16T13:01:00.000Z">
+<meta property="og:description" content="GH完整案例篇－Airbnb；今天就得到执行的好计划要远远胜过明天的完美计划，这种思想跟敏捷流程的快速迭代交付不谋而合，我们不应该将时间花在所谓追求那个“最完美”的解决方案中，快速选取可行的解决方案进行验证、回收、调整，持续集成、持续改进调优会更容易控制风险，且符合市场规律">
+<meta property="og:updated_time" content="2016-01-27T06:17:48.000Z">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="Growth Hacker读书笔记06">
-<meta name="twitter:description" content="Page[101] to Page[120]；原来嵌入式代码的推广最先是ytb尝试的，真不容易，在各大sp为了节省自己的带宽时，ytb敢于逆流而上；地推的案例刚好让我想起了我们在tr的竞争对手gb haber。。。别人在tr花了几万刀租了客轮就得到了百万的安装，想想之前我们团队有钱烧的时候市场那边做的都是些什么鬼，一切还是以人为本啊，做事的人决定了事情成败，想想现在新闻的尴尬，真是唏嘘；刚好文中又">
+<meta name="twitter:title" content="Growth Hacker读书笔记16">
+<meta name="twitter:description" content="GH完整案例篇－Airbnb；今天就得到执行的好计划要远远胜过明天的完美计划，这种思想跟敏捷流程的快速迭代交付不谋而合，我们不应该将时间花在所谓追求那个“最完美”的解决方案中，快速选取可行的解决方案进行验证、回收、调整，持续集成、持续改进调优会更容易控制风险，且符合市场规律">
   
     <link rel="alternative" href="/atom.xml" title="Uncle c&#39;s Blog" type="application/atom+xml">
   
@@ -65,10 +65,10 @@
 </header>
 
       <div class="outer">
-        <section id="main"><article id="post-GrowthHacker06" class="article article-type-post" itemscope itemprop="blogPost">
+        <section id="main"><article id="post-GrowthHacker16" class="article article-type-post" itemscope itemprop="blogPost">
   <div class="article-meta">
-    <a href="/2016/01/16/GrowthHacker06/" class="article-date">
-  <time datetime="2016-01-16T13:00:12.000Z" itemprop="datePublished">2016-01-16</time>
+    <a href="/2016/01/26/GrowthHacker16/" class="article-date">
+  <time datetime="2016-01-26T06:15:21.000Z" itemprop="datePublished">2016-01-26</time>
 </a>
     
   </div>
@@ -79,7 +79,7 @@
         
   
     <h1 class="article-title" itemprop="name">
-      Growth Hacker读书笔记06
+      Growth Hacker读书笔记16
     </h1>
   
 
@@ -87,12 +87,12 @@
     
     <div class="article-entry" itemprop="articleBody">
       
-        <p>Page[101] to Page[120]；原来嵌入式代码的推广最先是ytb尝试的，真不容易，在各大sp为了节省自己的带宽时，ytb敢于逆流而上；地推的案例刚好让我想起了我们在tr的竞争对手gb haber。。。别人在tr花了几万刀租了客轮就得到了百万的安装，想想之前我们团队有钱烧的时候市场那边做的都是些什么鬼，一切还是以人为本啊，做事的人决定了事情成败，想想现在新闻的尴尬，真是唏嘘；刚好文中又提到了海外市场的肥沃，目前的团队一直专注于海外，真希望能够看到曙光</p>
+        <p>GH完整案例篇－Airbnb；今天就得到执行的好计划要远远胜过明天的完美计划，这种思想跟敏捷流程的快速迭代交付不谋而合，我们不应该将时间花在所谓追求那个“最完美”的解决方案中，快速选取可行的解决方案进行验证、回收、调整，持续集成、持续改进调优会更容易控制风险，且符合市场规律</p>
 
       
     </div>
     <footer class="article-footer">
-      <a data-url="http://unclec.cn/2016/01/16/GrowthHacker06/" data-id="cijwfx1in000lmrfymmm32t3m" class="article-share-link">Share</a>
+      <a data-url="http://unclec.cn/2016/01/26/GrowthHacker16/" data-id="cijwfx1hg0000mrfy3uu6j4l3" class="article-share-link">Share</a>
 
       
       
@@ -106,19 +106,10 @@
     
 <nav id="article-nav">
   
-    <a href="/2016/01/17/GrowthHacker07/" id="article-nav-newer" class="article-nav-link-wrap">
-      <strong class="article-nav-caption">Newer</strong>
-      <div class="article-nav-title">
-        
-          Growth Hacker读书笔记07
-        
-      </div>
-    </a>
   
-  
-    <a href="/2016/01/15/GrowthHacker05/" id="article-nav-older" class="article-nav-link-wrap">
+    <a href="/2016/01/25/GrowthHacker15/" id="article-nav-older" class="article-nav-link-wrap">
       <strong class="article-nav-caption">Older</strong>
-      <div class="article-nav-title">Growth Hacker读书笔记05</div>
+      <div class="article-nav-title">Growth Hacker读书笔记15</div>
     </a>
   
 </nav>
@@ -129,7 +120,7 @@
 
   <section id="comments">
     <!-- 多说评论框 start -->
-    <div class="ds-thread" data-thread-key="post-GrowthHacker06" data-title="Growth Hacker读书笔记06" data-url="http://unclec.cn/2016/01/16/GrowthHacker06/"></div>
+    <div class="ds-thread" data-thread-key="post-GrowthHacker16" data-title="Growth Hacker读书笔记16" data-url="http://unclec.cn/2016/01/26/GrowthHacker16/"></div>
     <!-- 多说评论框 end -->
     <!-- 多说公共JS代码 start (一个网页只需插入一次) -->
     <script type="text/javascript">

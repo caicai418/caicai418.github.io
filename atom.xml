@@ -4,7 +4,7 @@
   <subtitle><![CDATA[尽人事，依天命]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://unclec.cn/"/>
-  <updated>2016-01-24T07:03:18.000Z</updated>
+  <updated>2016-01-27T06:17:48.000Z</updated>
   <id>http://unclec.cn/</id>
   
   <author>
@@ -13,6 +13,38 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[Growth Hacker读书笔记16]]></title>
+    <link href="http://unclec.cn/2016/01/26/GrowthHacker16/"/>
+    <id>http://unclec.cn/2016/01/26/GrowthHacker16/</id>
+    <published>2016-01-26T06:15:21.000Z</published>
+    <updated>2016-01-27T06:17:48.000Z</updated>
+    <content type="html"><![CDATA[<p>GH完整案例篇－Airbnb；今天就得到执行的好计划要远远胜过明天的完美计划，这种思想跟敏捷流程的快速迭代交付不谋而合，我们不应该将时间花在所谓追求那个“最完美”的解决方案中，快速选取可行的解决方案进行验证、回收、调整，持续集成、持续改进调优会更容易控制风险，且符合市场规律</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>GH完整案例篇－Airbnb；今天就得到执行的好计划要远远胜过明天的完美计划，这种思想跟敏捷流程的快速迭代交付不谋而合，我们不应该将时间花在所谓追求那个“最完美”的解决方案中，快速选取可行的解决方案进行验证、回收、调整，持续集成、持续改进调优会更容易控制风险，且符合市场规律]]>
+    </summary>
+    
+      <category term="读书笔记" scheme="http://unclec.cn/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Growth Hacker读书笔记15]]></title>
+    <link href="http://unclec.cn/2016/01/25/GrowthHacker15/"/>
+    <id>http://unclec.cn/2016/01/25/GrowthHacker15/</id>
+    <published>2016-01-25T06:15:18.000Z</published>
+    <updated>2016-01-27T06:16:53.000Z</updated>
+    <content type="html"><![CDATA[<p>gh241-260：对于SpringSled的邮件提醒方式，有点夸大其在推广中起到的助推作用了，我质疑用户所谓“日行一善”、“慷慨点击”的行为，其愿意分享、传播的核心诉求必然还是在于通过这种行为能够得到什么实质的好处，案例中没有详细描述SpringSled平台提供的是何种服务，但必然应该是命中了受众的所需的；所以我倒不认为邮件提醒功能对用户的分享行为能够起到实质的催化作用，所谓激励强化也显得有些过了；云诺网盘的案例是在OneApm会上听到范冰现场分享的，几点经验值得学习：1、精炼、有噱头的话题性活动名称or口号；2、参与门槛低，结果反馈直接；3、游戏、成就心理，在之前的案例中反复涉及过；4、埋点（槽点），让你吐槽让你传播；5、bug宣传，利用人们炫耀的心理；6、一系列推广方案，层层推进</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>gh241-260：对于SpringSled的邮件提醒方式，有点夸大其在推广中起到的助推作用了，我质疑用户所谓“日行一善”、“慷慨点击”的行为，其愿意分享、传播的核心诉求必然还是在于通过这种行为能够得到什么实质的好处，案例中没有详细描述SpringSled平台提供的是何种服]]>
+    </summary>
+    
+      <category term="读书笔记" scheme="http://unclec.cn/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[Growth Hacker读书笔记14]]></title>
