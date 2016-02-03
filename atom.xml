@@ -4,7 +4,7 @@
   <subtitle><![CDATA[尽人事，依天命]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://unclec.cn/"/>
-  <updated>2016-02-01T03:29:00.000Z</updated>
+  <updated>2016-02-03T03:24:58.000Z</updated>
   <id>http://unclec.cn/</id>
   
   <author>
@@ -13,6 +13,38 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[《从0到1》读书笔记06]]></title>
+    <link href="http://unclec.cn/2016/02/02/From-0-to-1-06/"/>
+    <id>http://unclec.cn/2016/02/02/From-0-to-1-06/</id>
+    <published>2016-02-02T03:13:57.000Z</published>
+    <updated>2016-02-03T03:24:58.000Z</updated>
+    <content type="html"><![CDATA[<p>《从0到1》（page81-100）：成功不是中彩票；作者从未来的明确与否、乐观与否两个维度共四种组合场景，并分别举例，试图告诉我们“规划优于机遇”、“长期规划在我们未来不明的追求短期利益的世界里经常被低估”；当今的世界-对未来不明确却很乐观，不明确的金融、不明确的政治、不明确的哲学、不明确的人生。。。很遗憾我没有产生共鸣，虽然计划性的优点我是认可的，但这只是从我个体属性而言；我觉得自己的人生很明确、需求很明确、未来也不至于迷茫，而至于作者所说的世界级的眼界，一般人估计也都没有那种视界吧</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>《从0到1》（page81-100）：成功不是中彩票；作者从未来的明确与否、乐观与否两个维度共四种组合场景，并分别举例，试图告诉我们“规划优于机遇”、“长期规划在我们未来不明的追求短期利益的世界里经常被低估”；当今的世界-对未来不明确却很乐观，不明确的金融、不明确的政治、不]]>
+    </summary>
+    
+      <category term="读书笔记-从0到1" scheme="http://unclec.cn/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0-%E4%BB%8E0%E5%88%B01/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[《从0到1》读书笔记05]]></title>
+    <link href="http://unclec.cn/2016/02/01/From-0-to-1-05/"/>
+    <id>http://unclec.cn/2016/02/01/From-0-to-1-05/</id>
+    <published>2016-02-01T03:13:53.000Z</published>
+    <updated>2016-02-03T03:25:30.000Z</updated>
+    <content type="html"><![CDATA[<p>《从0到1》（page61-80）：开始进入正题了，才发现前文对于垄断和竞争的铺垫非常有必要，因为，从这里开始，居然继续高开高走，开始讲起如何打造一个垄断企业了。。。有点意思。一个企业今天的价值，是它以后创造利润的总和，估值的时候还要将未来的现金流折算成今天的价值，从而得到企业的现金流价值，这也是投资者所看重的，而一家科技公司的大部分价值会在未来10到15年内得到体现。什么样的公司才能具备这种价值呢?专利技术、网络效应、规模经济、品牌优势，按照这些特点分析自己的公司，可以帮助我嫩思考怎么样使公司更长命；基于这些特征，再加上正确的市场选择策略，一家垄断公司的制作图纸总纲就出来了。</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>《从0到1》（page61-80）：开始进入正题了，才发现前文对于垄断和竞争的铺垫非常有必要，因为，从这里开始，居然继续高开高走，开始讲起如何打造一个垄断企业了。。。有点意思。一个企业今天的价值，是它以后创造利润的总和，估值的时候还要将未来的现金流折算成今天的价值，从而得到]]>
+    </summary>
+    
+      <category term="读书笔记-从0到1" scheme="http://unclec.cn/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0-%E4%BB%8E0%E5%88%B01/"/>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[《从0到1》读书笔记04]]></title>
@@ -296,38 +328,6 @@
 ]]></content>
     <summary type="html">
     <![CDATA[<p>Page[61] to Page[80]，“多啦口袋”的事故又是测试的锅，对于新的平台没有决策覆盖居然还敢大踏步地推，我也是醉了；“行胜于言”的用户调研的观点其实是面子和里子的维度，用户说的并不一定是用户想的，甚至用户想的都并不一定付诸于实践；冷启动的问题，夺宝马上就面临了]]>
-    </summary>
-    
-      <category term="读书笔记-GrowthHacker" scheme="http://unclec.cn/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0-GrowthHacker/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[《Growth Hacker》读书笔记03]]></title>
-    <link href="http://unclec.cn/2016/01/13/GrowthHacker03/"/>
-    <id>http://unclec.cn/2016/01/13/GrowthHacker03/</id>
-    <published>2016-01-13T12:23:10.000Z</published>
-    <updated>2016-02-01T02:56:45.000Z</updated>
-    <content type="html"><![CDATA[<p>Page[41] to Page[60]，MVP的概念，其实在10年学习敏捷的时候就接触到了，但是当时只是不明觉厉，只是从研发体系内部的短平快的版本交付维度去看的，随着接触项目、产品的经验积累，其实已经不知不觉中多少就具备了MVP的思想，如今算是系统地重温了吧；btw，“叮咚小区”的失败，真的是步子大了，扯到蛋了啊233333，最起码他们的测试都可以拉出去毙了先</p>
-]]></content>
-    <summary type="html">
-    <![CDATA[<p>Page[41] to Page[60]，MVP的概念，其实在10年学习敏捷的时候就接触到了，但是当时只是不明觉厉，只是从研发体系内部的短平快的版本交付维度去看的，随着接触项目、产品的经验积累，其实已经不知不觉中多少就具备了MVP的思想，如今算是系统地重温了吧；btw，“叮]]>
-    </summary>
-    
-      <category term="读书笔记-GrowthHacker" scheme="http://unclec.cn/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0-GrowthHacker/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[《Growth Hacker》读书笔记02]]></title>
-    <link href="http://unclec.cn/2016/01/12/GrowthHacker02/"/>
-    <id>http://unclec.cn/2016/01/12/GrowthHacker02/</id>
-    <published>2016-01-12T12:19:27.000Z</published>
-    <updated>2016-02-01T02:56:55.000Z</updated>
-    <content type="html"><![CDATA[<p>Page[21] to Page[40]:<br>主要讲的是GH的基本素养、招聘和培养，以及常用工具箱的介绍；期间提到了作者的成长史，引用的总结让我触动：“你不可能从现在预测到未来，只有回头看时，才会发现事物之间的联系。所以你必须相信，那些生命中的点点滴滴，将会在你未来的生命里，以某种方式串联起来。你必须始终相信一些东西–你的勇气、宿命、生活、因缘，随便什么，它们将给你追寻内心真正所想的自信，带你走离平凡，变得与众不同”</p>
-]]></content>
-    <summary type="html">
-    <![CDATA[<p>Page[21] to Page[40]:<br>主要讲的是GH的基本素养、招聘和培养，以及常用工具箱的介绍；期间提到了作者的成长史，引用的总结让我触动：“你不可能从现在预测到未来，只有回头看时，才会发现事物之间的联系。所以你必须相信，那些生命中的点点滴滴，将会在你未来的生]]>
     </summary>
     
       <category term="读书笔记-GrowthHacker" scheme="http://unclec.cn/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0-GrowthHacker/"/>
