@@ -4,7 +4,7 @@
   <subtitle><![CDATA[尽人事，依天命]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://unclec.cn/"/>
-  <updated>2016-02-05T06:26:39.000Z</updated>
+  <updated>2016-02-14T03:15:56.000Z</updated>
   <id>http://unclec.cn/</id>
   
   <author>
@@ -13,6 +13,38 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[《从0到1》读书笔记10]]></title>
+    <link href="http://unclec.cn/2016/02/13/From-0-to-1-10/"/>
+    <id>http://unclec.cn/2016/02/13/From-0-to-1-10/</id>
+    <published>2016-02-13T02:57:15.000Z</published>
+    <updated>2016-02-14T03:15:56.000Z</updated>
+    <content type="html"><![CDATA[<p>《从0到1》（page161-180）：文中所谓“帮派文化”，不是公司内部的拉帮结派，而是根据团队量身定制的企业文化；基于此，招聘选择的员工不应该只是简历上看起来厉害的人，还要在入职后能与他人团队协作，这种协作不是仅仅处于事务关系待在一起，而应该有彼此契合的世界观；我想其实这就是巴萨和皇马的本质区别吧，拉玛西亚精神VS金元足球。而作为一个初创团队，如果能找到这样的班底作为基础，想必也会事半功倍。</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>《从0到1》（page161-180）：文中所谓“帮派文化”，不是公司内部的拉帮结派，而是根据团队量身定制的企业文化；基于此，招聘选择的员工不应该只是简历上看起来厉害的人，还要在入职后能与他人团队协作，这种协作不是仅仅处于事务关系待在一起，而应该有彼此契合的世界观；我想其实]]>
+    </summary>
+    
+      <category term="读书笔记-从0到1" scheme="http://unclec.cn/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0-%E4%BB%8E0%E5%88%B01/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[《从0到1》读书笔记09]]></title>
+    <link href="http://unclec.cn/2016/02/05/From-0-to-1-09/"/>
+    <id>http://unclec.cn/2016/02/05/From-0-to-1-09/</id>
+    <published>2016-02-05T02:57:11.000Z</published>
+    <updated>2016-02-14T03:11:17.000Z</updated>
+    <content type="html"><![CDATA[<p>《从0到1》（page141-160）：这一章讲述的是初创公司起步时几个关键点；1、合伙人的选择，团队成员之间的了解程度和他们合作的默契程度，其重要性在投资人眼里不亚于团队的技术能力和才华。2、三权（所有权、经营权、控制权）的分配，基本都是创始人和投资人所有。3、员工激励政策，未来的股票报酬比现金奖励更加能让员工全力以赴，不然只是吃老本，安于现状</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>《从0到1》（page141-160）：这一章讲述的是初创公司起步时几个关键点；1、合伙人的选择，团队成员之间的了解程度和他们合作的默契程度，其重要性在投资人眼里不亚于团队的技术能力和才华。2、三权（所有权、经营权、控制权）的分配，基本都是创始人和投资人所有。3、员工激励政]]>
+    </summary>
+    
+      <category term="读书笔记-从0到1" scheme="http://unclec.cn/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0-%E4%BB%8E0%E5%88%B01/"/>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[《从0到1》读书笔记08]]></title>
@@ -296,38 +328,6 @@
 ]]></content>
     <summary type="html">
     <![CDATA[<p>Page[121] to Page[140]：A/B Test是一把利器，然而似乎我们团队只有logo和push用得比较溜；产品层面上缺少有效的实施，当然这也跟平台有关，移动端上的A/B Test实施需要客户端产品架构上的支持，目前团队没有资源去投入，比较可行的方式是在现有]]>
-    </summary>
-    
-      <category term="读书笔记-GrowthHacker" scheme="http://unclec.cn/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0-GrowthHacker/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[《Growth Hacker》读书笔记07]]></title>
-    <link href="http://unclec.cn/2016/01/17/GrowthHacker07/"/>
-    <id>http://unclec.cn/2016/01/17/GrowthHacker07/</id>
-    <published>2016-01-17T04:49:33.000Z</published>
-    <updated>2016-02-01T02:55:13.000Z</updated>
-    <content type="html"><![CDATA[<p>GH（01-120）一周盘点：一周的时间，刚好读完了GH前三章，今天下午在悦动的bgm和hm的陪伴下重温了一回；关于这本书，起初我以为从中能够获得热插拔的技巧，直接应用到现在的产品或以后的产品中去，立竿见影，实际阅读才发现书中是通过众多的正反面growth案例来告诉我们what to do and why we have to，也许做产品本身就没有银弹可言，每个团队都需要具体结合自己产品的实际情况来调整设计、运营、推广策略，若想投机取巧势必会承担很大的风险；然而不得不说GH仍然也是一本难得的好书，你总能从海量经典案例的聚合中找到可参考或可警示的实践，前者需要你自己能够更多的触类旁通，而后者似乎更让人印象深刻，人们习惯从惨痛的教训中得到成长，该庆幸痛的不是你自己。测试从业者也应该读这本书，优秀的测试人员能够端到端的去把关产品的质量，前置风险，而这点最基本的就是在产品需求、设计review阶段对决策者进行合理地challenge，万万不是被动地接收任务，尽管现实很多测试团队就是如此。关于日常读书，很高兴自己坚持下来了，并且还能享受阅读和分享的过程，希望自己的坚持不仅对自己有所积累，而且还能够给朋友们带来积极的影响。</p>
-]]></content>
-    <summary type="html">
-    <![CDATA[<p>GH（01-120）一周盘点：一周的时间，刚好读完了GH前三章，今天下午在悦动的bgm和hm的陪伴下重温了一回；关于这本书，起初我以为从中能够获得热插拔的技巧，直接应用到现在的产品或以后的产品中去，立竿见影，实际阅读才发现书中是通过众多的正反面growth案例来告诉我们wh]]>
-    </summary>
-    
-      <category term="读书笔记-GrowthHacker" scheme="http://unclec.cn/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0-GrowthHacker/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[《Growth Hacker》读书笔记06]]></title>
-    <link href="http://unclec.cn/2016/01/16/GrowthHacker06/"/>
-    <id>http://unclec.cn/2016/01/16/GrowthHacker06/</id>
-    <published>2016-01-16T13:00:12.000Z</published>
-    <updated>2016-02-01T03:13:35.000Z</updated>
-    <content type="html"><![CDATA[<p>Page[101] to Page[120]；原来嵌入式代码的推广最先是ytb尝试的，真不容易，在各大sp为了节省自己的带宽时，ytb敢于逆流而上；地推的案例刚好让我想起了我们在tr的竞争对手gb haber。。。别人在tr花了几万刀租了客轮就得到了百万的安装，想想之前我们团队有钱烧的时候市场那边做的都是些什么鬼，一切还是以人为本啊，做事的人决定了事情成败，想想现在新闻的尴尬，真是唏嘘；刚好文中又提到了海外市场的肥沃，目前的团队一直专注于海外，真希望能够看到曙光</p>
-]]></content>
-    <summary type="html">
-    <![CDATA[<p>Page[101] to Page[120]；原来嵌入式代码的推广最先是ytb尝试的，真不容易，在各大sp为了节省自己的带宽时，ytb敢于逆流而上；地推的案例刚好让我想起了我们在tr的竞争对手gb haber。。。别人在tr花了几万刀租了客轮就得到了百万的安装，想想之前我们]]>
     </summary>
     
       <category term="读书笔记-GrowthHacker" scheme="http://unclec.cn/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0-GrowthHacker/"/>
