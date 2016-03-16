@@ -4,7 +4,7 @@
   <subtitle><![CDATA[尽人事，依天命]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://unclec.cn/"/>
-  <updated>2016-03-16T07:15:52.000Z</updated>
+  <updated>2016-03-16T07:23:51.000Z</updated>
   <id>http://unclec.cn/</id>
   
   <author>
@@ -15,50 +15,59 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title><![CDATA[从零开始做运营07]]></title>
-    <link href="http://unclec.cn/2016/03/16/%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E5%81%9A%E8%BF%90%E8%90%A507/"/>
-    <id>http://unclec.cn/2016/03/16/从零开始做运营07/</id>
-    <published>2016-03-16T07:15:52.000Z</published>
-    <updated>2016-03-16T07:15:52.000Z</updated>
-    <content type="html"></content>
+    <title><![CDATA[《从零开始做运营》读书笔记07]]></title>
+    <link href="http://unclec.cn/2016/03/15/%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E5%81%9A%E8%BF%90%E8%90%A507/"/>
+    <id>http://unclec.cn/2016/03/15/从零开始做运营07/</id>
+    <published>2016-03-15T07:15:52.000Z</published>
+    <updated>2016-03-16T07:23:51.000Z</updated>
+    <content type="html"><![CDATA[<p>《从零开始做运营》第七章；这一章主要讲的是运营和产品的关系；产品经理不断的在研究，如何让用户Don’t Make Them Think，而运营则一直 让用户To Do One More Thing。也就是说，产品认为用户是傻子，而运营认为 用户实在太聪明了。所以，产品经理不断的简化流程、缩短用户使用产品时 的思考时间，让他们的行为更加的自然、流畅，而运营人员就不断的寻找面 对用户时尽可能多且准确的切入点，顺利的完成用户的转化，让他们多做一 件事情，比如，电商运营考虑的转化率，不就是要让用户在完成“简单快 速”的商品挑选之后，“多”做一步付费购买么？支付产品提供了快捷支付，让 用户可以快速完成支付动作，而运营就通过组合更多的场景，供用户选择后 进入支付环节。结合我们目前的项目来看，貌似还真是这回事。</p>
+]]></content>
     <summary type="html">
-    
+    <![CDATA[<p>《从零开始做运营》第七章；这一章主要讲的是运营和产品的关系；产品经理不断的在研究，如何让用户Don’t Make Them Think，而运营则一直 让用户To Do One More Thing。也就是说，产品认为用户是傻子，而运营认为 用户实在太聪明了。所以，产品经理不]]>
     </summary>
+    
+      <category term="读书笔记-从零开始做运营" scheme="http://unclec.cn/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0-%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E5%81%9A%E8%BF%90%E8%90%A5/"/>
     
   </entry>
   
   <entry>
-    <title><![CDATA[从零开始做运营06]]></title>
-    <link href="http://unclec.cn/2016/03/16/%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E5%81%9A%E8%BF%90%E8%90%A506/"/>
-    <id>http://unclec.cn/2016/03/16/从零开始做运营06/</id>
-    <published>2016-03-16T07:15:45.000Z</published>
-    <updated>2016-03-16T07:15:45.000Z</updated>
-    <content type="html"></content>
+    <title><![CDATA[《从零开始做运营》读书笔记06]]></title>
+    <link href="http://unclec.cn/2016/03/14/%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E5%81%9A%E8%BF%90%E8%90%A506/"/>
+    <id>http://unclec.cn/2016/03/14/从零开始做运营06/</id>
+    <published>2016-03-14T07:15:45.000Z</published>
+    <updated>2016-03-16T07:23:11.000Z</updated>
+    <content type="html"><![CDATA[<p>签到，《从零开始做运营》第六章；这一章主要介绍的是运营数据分析的方法。关于核心指标，由于题目的背景不清晰，转化率的定义不明确。对于不同的网站或产品，在不同的时间阶段的核心指标是不同的。关于数据分析，运营数据分析本身不在于数据，而在于分析，常见的数据使用方法：1、掌握历史数据；2、从历史数据中归纳规律；3、通过规律反向进行数据预测；4、学会对数据进行拆解。一个产品自身的内容运营核心数据包涵：1、内容的展示数据，如点击、停留时长等；2、内容的转化数据，如广告点击、付费链接点击等；3、内容的粘性数据，如内容的重复点击数据；4、内容的扩散数据，如“分享”</p>
+]]></content>
     <summary type="html">
-    
+    <![CDATA[<p>签到，《从零开始做运营》第六章；这一章主要介绍的是运营数据分析的方法。关于核心指标，由于题目的背景不清晰，转化率的定义不明确。对于不同的网站或产品，在不同的时间阶段的核心指标是不同的。关于数据分析，运营数据分析本身不在于数据，而在于分析，常见的数据使用方法：1、掌握历史数据]]>
     </summary>
+    
+      <category term="读书笔记-从零开始做运营" scheme="http://unclec.cn/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0-%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E5%81%9A%E8%BF%90%E8%90%A5/"/>
     
   </entry>
   
   <entry>
-    <title><![CDATA[从零开始做运营05]]></title>
-    <link href="http://unclec.cn/2016/03/16/%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E5%81%9A%E8%BF%90%E8%90%A505/"/>
-    <id>http://unclec.cn/2016/03/16/从零开始做运营05/</id>
-    <published>2016-03-16T07:15:43.000Z</published>
-    <updated>2016-03-16T07:15:43.000Z</updated>
-    <content type="html"></content>
+    <title><![CDATA[《从零开始做运营》读书笔记05]]></title>
+    <link href="http://unclec.cn/2016/03/13/%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E5%81%9A%E8%BF%90%E8%90%A505/"/>
+    <id>http://unclec.cn/2016/03/13/从零开始做运营05/</id>
+    <published>2016-03-13T07:15:43.000Z</published>
+    <updated>2016-03-16T07:22:31.000Z</updated>
+    <content type="html"><![CDATA[<p>一周小结，《金字塔原理》&amp;《从零开始做运营》；《金字塔原理》是一种逻辑清晰的结构化表述方式，“想清楚，说明白，知道说什么，怎么说”，这看似非常基本的沟通技能，实际上在不同的人的身上有非常大的区别，可能单独看方法论的时候大多数人都能够理解这种思维方式，但实际往往是不假思索便按照固有的习惯来进行表述，因为从理解到自然运用还需要大量的实践练习，这就是为什么有的人在言谈时让人感觉思绪清晰、敏捷，而有的人给人明显感觉不着重点。《从零开始做云》满满的干货，是对于运营工作很好的扫盲教程，使我对于运营工作的目标和过程有了系统的认识，希望能够尽快努力回馈到日常项目中去</p>
+]]></content>
     <summary type="html">
-    
+    <![CDATA[<p>一周小结，《金字塔原理》&amp;《从零开始做运营》；《金字塔原理》是一种逻辑清晰的结构化表述方式，“想清楚，说明白，知道说什么，怎么说”，这看似非常基本的沟通技能，实际上在不同的人的身上有非常大的区别，可能单独看方法论的时候大多数人都能够理解这种思维方式，但实际往往是不假]]>
     </summary>
+    
+      <category term="读书笔记-从零开始做运营" scheme="http://unclec.cn/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0-%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E5%81%9A%E8%BF%90%E8%90%A5/"/>
     
   </entry>
   
   <entry>
-    <title><![CDATA[《从零开始做运营》读书不羁04]]></title>
+    <title><![CDATA[《从零开始做运营》读书笔记04]]></title>
     <link href="http://unclec.cn/2016/03/12/%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E5%81%9A%E8%BF%90%E8%90%A504/"/>
     <id>http://unclec.cn/2016/03/12/从零开始做运营04/</id>
     <published>2016-03-12T07:15:40.000Z</published>
-    <updated>2016-03-16T07:19:09.000Z</updated>
+    <updated>2016-03-16T07:21:44.000Z</updated>
     <content type="html"><![CDATA[<p>《从零开始做运营》第五章；这一章介绍的是运营工作的第二类-用户运营；主要包括开源：1、选择注册渠道和方式；2、提升注册转化率.节流：1、定义清楚流失的标准是什么；2、建立流失预警机制；3、对已流失的用户进行挽回。促活：1、定义用户留存与用户活跃的标准；2、提升用户留存率；3、提升用户活跃度。转付费：1、通过一系列的行为让未付费的活跃用户付费；2、通过机制让已付费的用户持续付费。</p>
 ]]></content>
     <summary type="html">
