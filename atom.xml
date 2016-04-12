@@ -4,7 +4,7 @@
   <subtitle><![CDATA[尽人事，依天命]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://unclec.cn/"/>
-  <updated>2016-04-12T09:54:13.000Z</updated>
+  <updated>2016-04-12T10:00:38.000Z</updated>
   <id>http://unclec.cn/</id>
   
   <author>
@@ -13,22 +13,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title><![CDATA[《谁说菜鸟不会做数据分析》读书笔记02]]></title>
-    <link href="http://unclec.cn/2016/04/17/%E8%B0%81%E8%AF%B4%E8%8F%9C%E9%B8%9F%E4%B8%8D%E4%BC%9A%E5%81%9A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%9002/"/>
-    <id>http://unclec.cn/2016/04/17/谁说菜鸟不会做数据分析02/</id>
-    <published>2016-04-17T09:50:42.000Z</published>
-    <updated>2016-04-12T09:54:13.000Z</updated>
-    <content type="html"><![CDATA[<p>《谁说菜鸟不会数据分析》第二章。基于第一章介绍的数据分析六部曲，这一章开始介绍了常见的一些数据分析方法论。PEST分析理论主要用于行业分析；4P分析理论主要用于公司整体经营情况分析；逻辑树分析理论可用于业务问题专题分析；用户行为理论的用途比较单一，就是用于用户行为研究分析；5W2H分析理论的用途相对广泛，可用于用户行为分析、业务问题专题分析等。当然，实际运用中应该根据自身的情况合理选择正确的方法论进行嵌套使用。</p>
-]]></content>
-    <summary type="html">
-    <![CDATA[<p>《谁说菜鸟不会数据分析》第二章。基于第一章介绍的数据分析六部曲，这一章开始介绍了常见的一些数据分析方法论。PEST分析理论主要用于行业分析；4P分析理论主要用于公司整体经营情况分析；逻辑树分析理论可用于业务问题专题分析；用户行为理论的用途比较单一，就是用于用户行为研究分析；]]>
-    </summary>
-    
-      <category term="读书笔记-谁说菜鸟不会做数据分析" scheme="http://unclec.cn/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0-%E8%B0%81%E8%AF%B4%E8%8F%9C%E9%B8%9F%E4%B8%8D%E4%BC%9A%E5%81%9A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/"/>
-    
-  </entry>
   
   <entry>
     <title><![CDATA[《谁说菜鸟不会做数据分析》读书笔记06]]></title>
@@ -87,6 +71,22 @@
 ]]></content>
     <summary type="html">
     <![CDATA[<p>《谁说菜鸟不会数据分析》第三章；这一章介绍了数据分析六部曲的第二步，即数据准备，从最基本的数据表记录方式到常用的数据导入方法以及excel当中透视表的使用，这一章确实是手把手地指导菜鸟进行数据录入工作，对新手比较有帮助，不知道六部曲之后能不能有一些进阶的数据分析技巧讲解</]]>
+    </summary>
+    
+      <category term="读书笔记-谁说菜鸟不会做数据分析" scheme="http://unclec.cn/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0-%E8%B0%81%E8%AF%B4%E8%8F%9C%E9%B8%9F%E4%B8%8D%E4%BC%9A%E5%81%9A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[《谁说菜鸟不会做数据分析》读书笔记02]]></title>
+    <link href="http://unclec.cn/2016/04/07/%E8%B0%81%E8%AF%B4%E8%8F%9C%E9%B8%9F%E4%B8%8D%E4%BC%9A%E5%81%9A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%9002/"/>
+    <id>http://unclec.cn/2016/04/07/谁说菜鸟不会做数据分析02/</id>
+    <published>2016-04-07T09:50:42.000Z</published>
+    <updated>2016-04-12T10:34:40.000Z</updated>
+    <content type="html"><![CDATA[<p>《谁说菜鸟不会数据分析》第二章。基于第一章介绍的数据分析六部曲，这一章开始介绍了常见的一些数据分析方法论。PEST分析理论主要用于行业分析；4P分析理论主要用于公司整体经营情况分析；逻辑树分析理论可用于业务问题专题分析；用户行为理论的用途比较单一，就是用于用户行为研究分析；5W2H分析理论的用途相对广泛，可用于用户行为分析、业务问题专题分析等。当然，实际运用中应该根据自身的情况合理选择正确的方法论进行嵌套使用。</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>《谁说菜鸟不会数据分析》第二章。基于第一章介绍的数据分析六部曲，这一章开始介绍了常见的一些数据分析方法论。PEST分析理论主要用于行业分析；4P分析理论主要用于公司整体经营情况分析；逻辑树分析理论可用于业务问题专题分析；用户行为理论的用途比较单一，就是用于用户行为研究分析；]]>
     </summary>
     
       <category term="读书笔记-谁说菜鸟不会做数据分析" scheme="http://unclec.cn/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0-%E8%B0%81%E8%AF%B4%E8%8F%9C%E9%B8%9F%E4%B8%8D%E4%BC%9A%E5%81%9A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/"/>
